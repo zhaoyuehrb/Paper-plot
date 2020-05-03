@@ -1,0 +1,4 @@
+Fraction of reads,Frame,Type
+0.5, 1, RPF
+0.3, 2, RPF
+0.2, 3, RPF

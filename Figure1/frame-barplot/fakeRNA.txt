@@ -1,0 +1,4 @@
+Fraction of reads,Frame,Type
+0.38, 1, RNA-seq
+0.35, 2, RNA-seq
+0.27, 3, RNA-seq

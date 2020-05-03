@@ -1,0 +1,8 @@
+python2 ChartReport.py background.txt cluster\ 1\ genes.txt GO_cluster1.txt
+python2 ChartReport.py background.txt cluster\ 2\ genes.txt GO_cluster2.txt
+python2 ChartReport.py background.txt cluster\ 3\ genes.txt GO_cluster3.txt
+python2 ChartReport.py background.txt cluster\ 4\ genes.txt GO_cluster4.txt
+python2 ChartReport.py background.txt cluster\ 5\ genes.txt GO_cluster5.txt
+python2 ChartReport.py background.txt cluster\ 6\ genes.txt GO_cluster6.txt
+python2 ChartReport.py background.txt cluster\ 7\ genes.txt GO_cluster7.txt
+python2 ChartReport.py background.txt cluster\ 8\ genes.txt GO_cluster8.txt
